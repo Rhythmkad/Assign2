@@ -51,6 +51,9 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         radioGroupCanada = findViewById(R.id.radio_group1);
         radioGroupUsa = findViewById(R.id.radio_group2);
         resetBtn = findViewById(R.id.resetScore);
+
+
+
     }
 
     /* changing score through radio buttons */
