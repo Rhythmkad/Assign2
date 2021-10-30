@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">American Football</string>
+    <string name="vs_string">VS</string>
+    <string name="team_can">CANADA</string>
+    <string name="team_usa">USA</string>
+    <string name="win">Winning</string>
+    <string name="loss">Losing</string>
+    <string name="equal">Equal</string>
+    <string name="scores">SCORES</string>
+    <string name="selectTeam">Please Select Team</string>
+    <string name="reset_score_to_0">Reset Score to 0</string>
+    <string name="string_decrease">-</string>
+    <string name="string_increase">+</string>
+    <string name="string_score_1">1</string>
+    <string name="string_score_2">2</string>
+    <string name="string_score_3">3</string>
+    <string name="string_score_6">6</string>
+    <string name="value_0">0</string>
+</resources>
